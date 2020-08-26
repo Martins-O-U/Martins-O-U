@@ -1,4 +1,13 @@
 ### Hi there 👋
+### I am Martins Onyedikachi, a Software Engineer who is in love with coding and digital technology.
+
+#
+
+## Tech stack and Libraries I work with 
+These includes HTML, CSS, Node Js, Javascript, React, Redux, Python,PostGreSQL, MongoDB, Ant design, Formik, Styled-Component, Coveralls, Sentry, Travis CI etc.
+
+## Currently learning
+Currenrly I'm working on improving my skills and cloud knowledge through AWS trainings. First, Cloud Practitioner then Solution Architect. 
 
 <!--
 **Martins-O-U/Martins-O-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
