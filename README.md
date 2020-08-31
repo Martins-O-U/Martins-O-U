@@ -1,6 +1,6 @@
 <!-- ![Martins Obyedikach Ugoala's Picture](https://avatars1.githubusercontent.com/u/53585381?s=400&v=4) -->
 
-![Martins Onyedikachi Ugoala's Banner](https://github.com/Martins-O-U/blob/master/martins.png)
+![Martins Onyedikachi Ugoala's Banner](https://github.com/Martins-O-U/Martins-O-U/blob/master/martins.png)
 
 # 
 ## Hi there 👋
