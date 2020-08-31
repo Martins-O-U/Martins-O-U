@@ -1,5 +1,3 @@
-<!-- ![Martins Obyedikach Ugoala's Picture](https://avatars1.githubusercontent.com/u/53585381?s=400&v=4) -->
-
 ![Martins Onyedikachi Ugoala's Banner](https://github.com/Martins-O-U/Martins-O-U/blob/master/martins.png)
 
 # 
@@ -10,6 +8,7 @@ I am Martins Onyedikachi, FullStack Web Developer, who is in love with coding an
 
 ## Tech stack and Libraries I work with 
 These includes HTML, CSS, Node Js, Javascript, React, Redux, Python,PostGreSQL, MongoDB, Ant design, Formik, Styled-Component, Coveralls, Sentry, Travis CI etc.
+![<img src="https://github.com/Martins-O-U/Martins-O-U/blob/master/FullStack.png"](https://www.youracclaim.com/badges/aaeb2f5c-a65b-4c09-b29d-d471acbf6b6b/public_url)
 
 ## Currently learning 🌱 
 Currenrly I'm working on improving my skills and cloud knowledge through AWS trainings. First, Cloud Practitioner then Solution Architect. As well as GraphQL. 
