@@ -2,7 +2,7 @@
 
 # 
 ## Hi there 👋
-I am Martins Onyedikachi, FullStack Web Developer, who is in love with coding and digital technology. I am interested in how problems are broken down into smaller bits with a resultantant creative solutions that makes a difference. My goal is contribute impactful solutions that helps make life easier and more interesting through the use of technology, and to work with a team of like minds that encourages continuous learning.
+I am Martins Onyedikachi, a FullStack Web Developer who is in love with coding and digital technology. I am interested in how problems are broken down into smaller bits with a resultantant creative solutions that makes a difference. My goal is to contribute impactful solutions that helps make life easier and more interesting through the use of technology, and to work with a team of like minds that encourages continuous learning.
 
 #
 ## Tech stack and Libraries I work with 
@@ -20,7 +20,7 @@ Working on E-jolly, an App intended to manage event for event planners by taking
 ## I’m looking to 👯 
 Looking forward to opportunities where I can  contribute as a full stack web developer (Intern, Part-time, Full-time, Remote or On-site) in a solution driven organization.
 #
-Know more about me by visiting my [porfolio website](https://www.martinsonyedikachi.com/) 🌐
+Know more about me by visiting my [portfolio website](https://www.martinsonyedikachi.com/) 🌐
 
 and connect with me through the following mediums
 
