@@ -8,7 +8,7 @@ I am Martins Onyedikachi, FullStack Web Developer, who is in love with coding an
 ## Tech stack and Libraries I work with 
 These includes HTML, CSS, Node Js, Javascript, React, Redux, Python,PostGreSQL, MongoDB, Ant design, Formik, Styled-Component, Coveralls, Sentry, Travis CI etc.
 
-### ![Lamda's FullStack Badge](FullStack.png)
+### ![Lamda's FullStack Badge](https://github.com/Martins-O-U/Martins-O-U/blob/master/FullStack.png)
 View my verified achievement from Lambda School [on Acclaim](https://www.youracclaim.com/badges/aaeb2f5c-a65b-4c09-b29d-d471acbf6b6b/public_url)
 
 ## Currently learning 🌱 
