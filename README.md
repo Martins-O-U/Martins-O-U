@@ -1,4 +1,4 @@
-![Martins Onyedikachi Ugoala's Banner](https://github.com/Martins-O-U/Martins-O-U/blob/master/martins.jpg)
+![Martins Onyedikachi Ugoala's Banner](https://github.com/Martins-O-U/Martins-O-U/blob/master/martins.png)
 
 # 
 ## Hi there 👋
